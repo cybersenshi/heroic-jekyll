@@ -3,9 +3,13 @@
 @import url("https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css");
 body {
   background-color: silver;
-  background-image: url("img/graphy.png"), url("img/spotlight.svg"); }
+  background-image: url("img/graphy.png"), url("img/spotlight.svg");
+  background-attachment: fixed;
+  background-position: top left, 0 70px;
+  background-repeat: repeat, no-repeat; }
 
 header h1 {
+  padding-left: 2rem;
   font-family: Oswald, sans-serif;
   text-transform: uppercase; }
 
