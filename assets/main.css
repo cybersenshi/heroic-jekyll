@@ -3,7 +3,7 @@
 @import url("https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css");
 body {
   background-color: silver;
-  background-image: url("img/graphy.png"); }
+  background-image: url("img/graphy.png"), url("img/spotlight.svg"); }
 
 header h1 {
   font-family: Oswald, sans-serif;
