@@ -5,6 +5,8 @@
 <style type="text/css">
 	.st0{fill:url(#SVGID_1_);}
 	.st1{fill:url(#SVGID_2_);}
+	.st2{font-family:'LorimerNo2Stencil';}
+	.st3{font-size:59.105px;}
 </style>
 <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1.36" y1="364.2391" x2="374.7826" y2="364.2391" gradientTransform="matrix(1.0025 8.811209e-05 8.811244e-05 1 -0.9938 -3.424849e-02)">
 	<stop  offset="0" style="stop-color:#FFF33B;stop-opacity:0.5"/>
@@ -24,4 +26,5 @@
 	<stop  offset="1" style="stop-color:#F3903F"/>
 </linearGradient>
 <ellipse class="st1" cx="187.4" cy="61.3" rx="187.4" ry="61.3"/>
+<text transform="matrix(0.5244 0 0 1 40.3909 78.1954)" class="st2 st3">HEROIC WEBCRAFT</text>
 </svg>
