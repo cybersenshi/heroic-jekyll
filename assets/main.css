@@ -3,10 +3,10 @@
 @import url("https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css");
 body {
   background-color: silver;
-  background-image: url("img/graphy.png"), url("img/spotlight.svg");
+  background-image: url("img/graphy.png"), url("img/spotlightlgo.svg"), url("img/skyline.svg");
   background-attachment: fixed;
-  background-position: top left, 0 70px;
-  background-repeat: repeat, no-repeat; }
+  background-position: top left, 0 70px, bottom left;
+  background-repeat: repeat, no-repeat, repeat-y; }
 
 header h1 {
   padding-top: 1.5rem;
