@@ -18,15 +18,15 @@ email: lh-chan@mechapilot.org
 description: > # this means to ignore newlines until "baseurl:"
   Web design by Chaney.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://heroicwebcraft.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cybersenshi
 github_username:  cybersenshi
 google_analytics:
 
 # Build settings
 markdown: kramdown
-gems:
-  - jekyll-feed
+include: ["_pages"]
+permalink: /:title/
 exclude:
   - Gemfile
   - Gemfile.lock
